@@ -1,8 +1,8 @@
-# Fast epsilon-free Inference of Simulation Models with Bayesian Conditional Density Estimation
+# Fast $\epsilon$-free Inference of Simulation Models with Bayesian Conditional Density Estimation
 
 Code for reproducing the experiments in the paper:
 
-> G. Papamakarios, and I. Murray. _Fast epsilon-free Inference of Simulation Models with Bayesian Conditional Density Estimation_. Advances in Neural Information Processing Systems Conference. 2016.
+> G. Papamakarios, and I. Murray. _Fast $\epsilon$-free Inference of Simulation Models with Bayesian Conditional Density Estimation_. Advances in Neural Information Processing Systems Conference. 2016.
 > [[pdf]](https://arxiv.org/pdf/1605.06376v2.pdf) [[bibtex]](http://homepages.inf.ed.ac.uk/s1459647/bibtex/epsilon_free_inference.bib)
 
 
