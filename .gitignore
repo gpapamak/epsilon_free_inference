@@ -1,0 +1,6 @@
+# specific files and folders
+.DS_store
+
+# text editor's temporary files
+*~
+
