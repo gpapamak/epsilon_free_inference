@@ -7,3 +7,13 @@
 # python files
 *.pyc
 
+# data files
+*.pkl
+
+# include some data files necessary for reproducing the experiments
+!demos/bayesian_linear_regression_demo/results/data/observed_data.pkl
+!demos/lotka_volterra_demo/results/data/obs_stats.pkl
+!demos/lotka_volterra_demo/results/data/pilot_run_results.pkl
+!demos/mg1_queue_demo/results/data/observed_data.pkl
+!demos/mg1_queue_demo/results/data/pilot_run_results.pkl
+
