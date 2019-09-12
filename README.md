@@ -2,7 +2,7 @@
 
 Code for reproducing the experiments in the paper:
 
-> G. Papamakarios, and I. Murray. _Fast ε-free Inference of Simulation Models with Bayesian Conditional Density Estimation_. Advances in Neural Information Processing Systems Conference. 2016.
+> G. Papamakarios and I. Murray, _Fast ε-free Inference of Simulation Models with Bayesian Conditional Density Estimation_, NeurIPS 2016.
 > [[arXiv]](https://arxiv.org/abs/1605.06376) [[bibtex]](https://gpapamak.github.io/bibtex/epsilon_free_inference.bib)
 
 
